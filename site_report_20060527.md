@@ -50,7 +50,7 @@ Every other page in the nav loaded correctly: Camp Nawakwa Programs, Our History
 
 ---
 
-**Priority fix:** The `/aca-accredidation` 404 is the most impactful issue — it breaks a credibility-building link about ACA accreditation. The slug should likely be `/aca-accreditation` (corrected spelling), or the page needs to be created/restored. Want me to dig deeper into any other aspect of the site?
+⚠️ **Priority fix:** The `/aca-accredidation` 404 is the most impactful issue — it breaks a credibility-building link about ACA accreditation. The slug should likely be `/aca-accreditation` (corrected spelling), or the page needs to be created/restored. 
 
 
 ---
@@ -117,8 +117,7 @@ All tiles in embedded IG secion are dead links on https://www.campnawakwa.org (s
 | **Homepage** | **Instagram feed frozen at April 2020** | 🔴 **6 years stale** |
 | **Our History** | **"only been in existence for a few years"** | 🟡 **12 years stale** |
 
-The most actionable issues are the homepage Instagram feed (very visible, makes the site look abandoned) and the "Our History" copy that still reads like a brand-new organization. Want me to continue and look at any other aspects of the site?
-
+The most actionable issues are the homepage Instagram feed (very visible, makes the site look abandoned) and the "Our History" copy that still reads like a brand-new organization. 
 
 
 
