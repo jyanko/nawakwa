@@ -2,7 +2,7 @@
 
 ## ⚠️ Conflicting or Inaccurate Info  
 
-Summer sessions in both June and July were originally planned, but it has been said there will only be the July session this year.   There are multiple contacts for these dates being out there as the flyer image was posted to 3rd party sites as well as campnawakwa.org site.  
+Summer sessions in both June and July were originally planned, but it has been said there will only be the July session this year.   There are multiple contacts for these dates in the wild as the flyer image was posted to 3rd party sites as well as campnawakwa.org site.  
 
 Listing known touch points here
 
