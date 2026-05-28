@@ -102,7 +102,7 @@ All tiles in embedded IG secion are dead links on https://www.campnawakwa.org (s
 
 ---
 
-## Summary Table
+## Date References Summary
 
 | Page | Date Reference | Status |
 |---|---|---|
