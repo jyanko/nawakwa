@@ -1,0 +1,2 @@
+# nawakwa
+Camp Nawakwa project
