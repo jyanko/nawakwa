@@ -61,11 +61,12 @@ Here's every page with a date or time-bound reference, assessed against today's 
 
 ---
 
-### ✅ Current / Future-Looking
+### 🟡 Current / Future-Looking
 
 **Summer Camp 2026** (`/summer-camp-2026`)
 - References "Summer Camp at Camp Nawakwa 2026" — current and appropriate.
 - No specific session dates listed (just "2026"), so nothing is technically stale yet.
+- ⚠️ image of flyer on this page for summer camp does show two sessions in June and July which may be inaccurate
 
 **Forest Kindergarten** (`/forest-kindergarten`)
 - "September–November 2026, $1,200, Wednesdays 10:00 AM–3:00 PM" — **upcoming**, still valid.
