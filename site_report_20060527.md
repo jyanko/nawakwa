@@ -128,7 +128,7 @@ The most actionable issues are the homepage Instagram feed (very visible, makes 
 | **Squarespace Site ID** | `5451689fe4b0156d29ef05ef` |
 | **Hosting** | Squarespace (all-in-one) |
 | **CDN** | Squarespace CDN (`squarespace-cdn.com`) |
-| **Registrar** | Likely Squarespace Domains LLC (formerly Google Domains) |
+| **Registrar** | GoDaddy.com |
 | **SSL** | Active (HTTPS, issued via Squarespace) |
 | **Domain age est.** | ~2014 (based on site ID) |
 | **WHOIS privacy** | Enabled (personal info redacted) |
