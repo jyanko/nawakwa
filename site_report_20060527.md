@@ -16,7 +16,10 @@ Listing known touch points here
 
 | URL | Location Found | Issue |
 |-----|---------------|-------|
-| `/aca-accredidation` | "Why Camp Nawakwa?" page (via ./rentaloverview -> ./whycampnawakwa -> "ACA Learn More" link at bottom of page) | **404 Not Found** — linked as proof of ACA accreditation. Note the URL also has a typo ("accredidation" instead of "accreditation"). |
+| `/aca-accredidation` | "Why Camp Nawakwa?" page (via [./rentaloverview](https://www.campnawakwa.org/rentaloverview) -> [./why-camp-nawakwa](https://www.campnawakwa.org/why-camp-nawakwa) -> [./aca-accredidation](https://www.campnawakwa.org/aca-accredidation) --  "ACA Learn More" link is at bottom of the why nawakwa page) | **404 Not Found** — linked as proof of ACA accreditation. Note the URL also has a typo ("accredidation" instead of "accreditation"). |
+
+
+
 
 ---
 
